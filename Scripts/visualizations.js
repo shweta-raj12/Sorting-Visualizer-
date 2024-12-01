@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   SHWETA RAJ 
+    DONE BDONE BY:-   SHWETA RAJ 
     
     *****************
 */
@@ -59,7 +59,7 @@ function enable_buttons()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BDONE BY:-   SHWETA RAJ 
     
     *****************
 */
